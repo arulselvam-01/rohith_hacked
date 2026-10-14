@@ -1,0 +1,4 @@
+First Name,Last Name,Company,Job Title,Phone (Work),Mobile,Email,Website,Street,City,State,ZIP / Postal,Country,Note
+Jane,Smith,Acme Corp,Lead Developer,555-0101,555-0202,jane.smith@example.com,https://example.com,123 Main St,Boston,MA,02108,USA,Important contact
+John,Doe,Global Industries,Director,555-0303,555-0404,john.doe@global.com,https://global.com,456 Corporate Blvd,Chicago,IL,60601,USA,Partner representative
+Alice,Johnson,Tech Solutions,Designer,555-0505,,alice@techsolutions.com,https://techsolutions.com,789 Creative Lane,Austin,TX,78701,USA,
